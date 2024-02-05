@@ -1,0 +1,14 @@
+.time{
+    color: red;
+}
+#time{
+    color: rebeccapurple;
+}
+.Ingredients{
+    font-weight: bold;
+}
+.buttonb{
+    background-color: black;
+    color: white;
+    font-size: 24px;
+}
