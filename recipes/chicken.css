@@ -1,3 +1,20 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    line-height: 1.5;
+}
+body{
+    border: 2px solid darkred;
+    width: 500px;
+    height: auto;
+    margin: 10px auto;
+}
+.all{
+    text-align: center;
+    background-color: aquamarine;
+    padding: 10px;
+}
 .time{
     color: red;
 }
@@ -6,9 +23,17 @@
 }
 .Ingredients{
     font-weight: bold;
-}
-.buttonb{
-    background-color: black;
-    color: white;
+    border: 2px dotted black;
+    padding: 5px;
+    margin: 5px;
+} 
+.mek{
+    color: black;
     font-size: 24px;
+}
+ul{
+    list-style: none;
+}
+ol{
+    list-style: none;
 }
